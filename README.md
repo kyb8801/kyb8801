@@ -19,7 +19,7 @@ Optics Ph.D. with 8+ years in optical & semiconductor metrology (SEM, AFM, Raman
 | [metrology-inverse](https://github.com/kyb8801/metrology-inverse) | Forward → inverse → **GUM uncertainty** across 3 instruments: OCD (RCWA), XRR (Parratt), autodiff CD fitting — validated on real **NIST scatterometry data** (L100P300, 9 dies). Exact-Jacobian sensitivity for the uncertainty budget. | Python, PyTorch, Meent, refnx |
 | [acoustic-resonance-tomography](https://github.com/kyb8801/acoustic-resonance-tomography) | 3D buried-defect detection & material ID in semiconductor BEOL via **GHz acoustic resonance** — physics simulations (FDTD/TMM) + PINN inverse scattering. **Patent pending (KR 10-2026-0109370).** | Python, PyTorch |
 | [measurement-uncertainty-mcp](https://github.com/kyb8801/measurement-uncertainty-mcp) | MCP server for **GUM uncertainty analysis**: Type A/B, Welch-Satterthwaite ν_eff, expanded U(k), JCGM 101 Monte Carlo, KOLAS-ready budgets. 44 tests, live on MCPize. | Python, MCP |
-| tiphealth *(private — patent pending KR 10-2026-0129260)* | Recipe-aware **HAR AFM tip predictive maintenance** — hybrid Archard physics + ML, 8 industrial probes × 6 materials, conformal prediction intervals, Dockerized API. | Python, Docker, Streamlit |
+| tiphealth *(private — patent pending KR 10-2026-0129260)* | **HAR AFM tip predictive maintenance** — image ML at a reference recipe + Archard-model recipe scaling, 8 probe models × 6 materials (simulation-based), conformal prediction intervals, Dockerized API. | Python, Docker, Streamlit |
 | [spectraguard](https://github.com/kyb8801/spectraguard) | Uncertainty-aware **spectral QC** for SERS/Raman/IR — 6-metric confidence score with bootstrap CIs, cross-instrument transfer, streaming SPC, CLI + CI pipeline. | Python, NumPy, SciPy |
 | [semiconductor-defect-classifier](https://github.com/kyb8801/semiconductor-defect-classifier) | Defect classification on **SECOM fab sensor data** (1,567 wafers × 590 sensors, 6.6% defect rate) — imbalance handling, Optuna tuning, honest K-fold evaluation. | Python, XGBoost, Optuna |
 | [semiconductor-ai-portfolio](https://github.com/kyb8801/semiconductor-ai-portfolio) | Analysis pipelines on **my own PhD measurement data**: MoSe₂ photoluminescence peak/FWHM analysis, NSOM defect mapping, TMD comparison. | Jupyter, pandas, SciPy |
@@ -67,4 +67,3 @@ A measurement you can't reproduce isn't a measurement.
 ## 📫 Contact
 
 📧 kyb8801@gmail.com  
-🌐 https://yongbeom.com
