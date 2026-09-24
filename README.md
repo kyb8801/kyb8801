@@ -2,13 +2,13 @@
 
 ### Metrology × AI × Uncertainty Quantification
 
-Optics Ph.D. with 8+ years in optical & semiconductor metrology (SEM, AFM, Raman, NSOM), building AI applications that don't just predict — they report **how much you can trust the prediction**, with GUM-compliant uncertainty budgets (JCGM 100/101).
+Ph.D. in Energy Science (thesis: near-field optical spectroscopy of 2D semiconductors), working in optical & semiconductor metrology (SEM, AFM, Raman, NSOM) and building AI applications that don't just predict — they report **how much you can trust the prediction**, with GUM-compliant uncertainty budgets (JCGM 100/101).
 
 - 🔬 **Measurement scientist first**: ISO 18516:2019 round robin — Korean-side participant, first author of the resulting paper ([*Curr. Appl. Phys.* **20**, 71–77, 2020](https://doi.org/10.1016/j.cap.2019.10.012)) · practitioner at a KOLAS-accredited ISO 17034 reference-material producer
 - 📐 I build the full loop: **physics forward model → inverse solver → GUM uncertainty budget**
 - 🧰 Domains: OCD / scatterometry, XRR, SEM·TEM image analysis, AFM probe health, Raman/SERS QC
 - 🤖 MCP builder: author of an MCP server for GUM measurement uncertainty — a prior-art search (2026-07) found no equivalent, which is not the same as being first
-- 🧪 **4 solo patent applications** in metrology & inspection AI (KR, 2026)
+- 🧪 **5 solo patent applications** in metrology & inspection AI (KR, 2026)
 - 🌱 Upstream contributor: **conformal prediction (CQR)** merged into [torch-uncertainty](https://github.com/torch-uncertainty/torch-uncertainty) (PyTorch UQ framework, ★500+)
 
 ## 🚀 Featured Projects
